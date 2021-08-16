@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+.input-div {
+    margin-bottom: 1em;
+}
+
+input {
+    padding: 0.5em;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+button{
+    background-color: rgb(53, 53, 189);
+    color: white;
+    padding: 0.5em 1em;
+    margin: 0.5em;
+    border-radius: 5px;
+
+}
